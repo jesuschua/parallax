@@ -18,15 +18,15 @@ body, html{
 }
 
 .pimg1{
-  background-image: url('../img/mainimage1.jpg');
+  background-image: url('../img/mainimage1.JPG');
   min-height: 100%;
 }
 .pimg2{
-  background-image: url('../img/mainimage2.jpg');
+  background-image: url('../img/mainimage2.JPG');
   min-height: 500px;
 }
 .pimg3{
-  background-image: url('../img/mainimage3.jpg');
+  background-image: url('../img/mainimage3.JPG');
   min-height: 500px;
 }
 
