@@ -60,18 +60,20 @@ body, html{
 
 .ptext-main{
   text-align: justify;
+  top: 30%;
 }
 
 .ptext .border{
   background-color: #3B9C9C;
   color:#fff;
   padding: 20px;
+  display: inline-block;
 }
 
 .ptext .border.sub{
   background-color: #F75D59;
   color: white;
-  top: 80%;
+  top: 50%;
 }
 
 /*@media(max-width:568px){
