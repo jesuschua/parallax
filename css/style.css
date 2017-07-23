@@ -59,7 +59,7 @@ body, html{
 }
 
 .ptext-main{
-  top: 50%
+  text-align: justify;
 }
 
 .ptext .border{
@@ -74,9 +74,9 @@ body, html{
   top: 80%;
 }
 
-@media(max-width:568px){
+/*@media(max-width:568px){
   .pimg1, .pimg2, .pimg3{
     background-attachment: scroll;
   }
 
-}
+}*/
